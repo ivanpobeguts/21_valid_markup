@@ -1,6 +1,7 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+This is a test agency [website](https://ivanpobeguts.github.io/21_valid_markup/index.html).
+ Available for all the browsers.  
 
 # Project Goals
 
